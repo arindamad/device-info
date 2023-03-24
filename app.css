@@ -1,0 +1,14 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+#arInfoWrapper{
+    background: rgb(194, 246, 255);
+    padding: 20px 30px;
+    max-width: 300px;
+    margin: 0 auto;
+}
+#arInfoWrapper ul{
+    list-style: none;
+}
